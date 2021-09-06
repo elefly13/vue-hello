@@ -7,7 +7,7 @@ const app = new Vue (
         el: '#root',
         data: {
             message: 'Benvenuto nel mondo VUE 3 JS',
-            
+            image: 'myImage'
 
         }
 
